@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Text Formatting</title>
+</head>
+<body>
+<h1>My First Page</h1>
+<p>This is a normal paragraph.</p>
+<b>This text is bold</b><br>
+<i>This text is italic</i><br>
+<u>This text is underlined</u><br>
+<big>This is big text</big><br>
+<small>This is small text</small><br>
+<strong>This is important</strong><br>
+<em>This is emphasized</em><br>
+<mark>This is highlighted</mark><br>
+<del>This is deleted</del><br>
+H<sub>2</sub>O is water<br>
+X<sup>2</sup> is x squared
+</body>
+</html>
