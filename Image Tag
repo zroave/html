@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Images in HTML</title>
+</head>
+<body>
+<h2>My Photo Gallery</h2>
+<img src="photo1.jpg" alt="My Photo" width="350" height="250"><br><br>
+<img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="Trulli" width="300" height="200"><br><br>
+<img src="https://www.w3schools.com/html/img_chania.jpg" alt="Chania" width="300" height="200">
+</body>
+</html>
