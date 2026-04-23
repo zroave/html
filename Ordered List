@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Ordered List</title>
+</head>
+<body>
+<h2>How to Make Maggi</h2>
+<ol>
+<li>Boil 2 cups of water</li>
+<li>Add the noodles</li>
+<li>Add the masala</li>
+<li>Cook for 2 minutes</li>
+<li>Serve hot</li>
+</ol>
+<h2>Countries I want to Visit</h2>
+<ol type="I">
+<li>Japan</li>
+<li>Switzerland</li>
+<li>Canada</li>
+<li>Australia</li>
+</ol>
+</body>
+</html>
