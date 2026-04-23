@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Unordered List</title>
+</head>
+<body>
+<h2>Things in my Bag</h2>
+<ul type="disc">
+<li>Notebook</li>
+<li>Pen</li>
+<li>Water Bottle</li>
+<li>Earphones</li>
+</ul>
+<h2>My Favourite Foods</h2>
+<ul type="circle">
+<li>Pizza</li>
+<li>Biryani</li>
+<li>Rajma Chawal</li>
+<li>Momos</li>
+</ul>
+</body>
+</html>
