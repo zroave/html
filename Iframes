@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Iframe Examples</title>
+</head>
+<body>
+<h2>Website inside a Page</h2>
+<iframe src="https://www.wikipedia.org" width="750" height="350" frameborder="1" scrolling="yes"></iframe>
+<br><br>
+<h2>Google Maps</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835434509374!2d144.9537363!3d-37.8162263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDQ4JzU4LjQiUyAxNDTCsDU3JzEzLjUiRQ!5e0!3m2!1sen!2sin!4v1234567890" width="750" height="350" frameborder="0"></iframe>
+</body>
+</html>
